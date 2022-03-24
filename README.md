@@ -1,7 +1,7 @@
 <h1 align="center">Hey ! I'm RedBoard</h1>
 <h3 align="center">Etudiant of informatique in EPITECH</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=redboarddev&label=Profile%20views&style=plastic" alt="redboarddev" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=redboarddev&label=Profile%20views&color=073755&style=plastic" alt="redboarddev" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=redboarddev" alt="redboarddev" /></a> </p>
 
