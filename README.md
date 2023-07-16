@@ -14,6 +14,10 @@ import github
 readme = github.User(id=53050011).readme
 readme.show()
 ```
+
+<a href="https://wakatime.com/@86f1e87d-133e-42e9-902b-52ee8778b853"><img src="https://wakatime.com/badge/user/86f1e87d-133e-42e9-902b-52ee8778b853.svg" alt="Total time coded since Apr 2 2023" /></a>
+<img src="https://komarev.com/ghpvc/?username=RedBoardDev&color=2347cc&style=flat-square&label=Profile views" alt="Profile views">
+
 <img src="https://raw.githubusercontent.com/amandewatnitrr/amandewatnitrr/main/header_.png">
 
 <p align="center">
