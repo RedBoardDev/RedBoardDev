@@ -19,7 +19,7 @@ readme.show()
 <img src="https://raw.githubusercontent.com/amandewatnitrr/amandewatnitrr/main/header_.png">
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/RedBoardDev?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.colors=github&languages.sections=most-used&config.timezone=Europe%2FParis">
+  <img src="https://raw.githubusercontent.com/RedBoardDev/RedBoardDev/d11da97da94e4972321232e9df04cbd47e208c7e/github-metrics.svg">
     <br/>
     <br/>
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
