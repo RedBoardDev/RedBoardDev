@@ -7,7 +7,6 @@
 <!--   <a href="https://wakatime.com/@175665bc-a6a0-4303-80ac-5a323cfb3ab4"><img src="https://wakatime.com/badge/user/175665bc-a6a0-4303-80ac-5a323cfb3ab4.svg?style=flat-square" alt="Wakatime"></a> -->
 </p>
 
-<a href="https://wakatime.com/@86f1e87d-133e-42e9-902b-52ee8778b853"><img src="https://wakatime.com/badge/user/86f1e87d-133e-42e9-902b-52ee8778b853.svg" alt="Total time coded since Apr 2 2023" /></a>
 # `<Hello World, I'm RedBoardDev/>`
 
 ```python
