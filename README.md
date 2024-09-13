@@ -37,6 +37,9 @@ readme.show()
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg">
 </p>
 <br/>
+<p align="center">
+  [![GitHub Streak](https://streak-stats.demolab.com?user=RedBoardDev&theme=transparent)](https://git.io/streak-stats)
+</p>
 <br/>
 
 🌍 `<About me/>`
