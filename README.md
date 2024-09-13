@@ -2,8 +2,6 @@
 
 
 <a href="https://wakatime.com/@86f1e87d-133e-42e9-902b-52ee8778b853"><img src="https://wakatime.com/badge/user/86f1e87d-133e-42e9-902b-52ee8778b853.svg" alt="Total time coded since Apr 2 2023" /></a>
-<img src="https://komarev.com/ghpvc/?username=RedBoardDev&color=2347cc&style=flat-square&label=Profile views" alt="Profile views">
-[![Uptime Services](https://img.shields.io/badge/Uptime%20Services-Click%20to%20View-brightgreen)](https://uptime.thomasott.fr)
 ```python
 import github
 readme = github.User(id=53050011).readme
@@ -66,3 +64,4 @@ class RedBoardDev:
 redboarddev = RedBoardDev()
 print(redboarddev.get_info())
 ```
+[![GitHub Streak](https://streak-stats.demolab.com?user=RedBoardDev&theme=transparent)](https://git.io/streak-stats)
