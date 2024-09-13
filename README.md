@@ -67,4 +67,3 @@ class RedBoardDev:
 redboarddev = RedBoardDev()
 print(redboarddev.get_info())
 ```
-[![GitHub Streak](https://streak-stats.demolab.com?user=RedBoardDev&theme=transparent)](https://git.io/streak-stats)
