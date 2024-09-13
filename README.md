@@ -38,7 +38,7 @@ readme.show()
 </p>
 <br/>
 <p align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com?user=RedBoardDev&theme=transparent)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=RedBoardDev&theme=transparent" alt="GitHub Streak" /></a>
 </p>
 <br/>
 
