@@ -41,29 +41,3 @@ readme.show()
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=RedBoardDev&theme=transparent" alt="GitHub Streak" /></a>
 </p>
 <br/>
-
-🌍 `<About me/>`
-```python
-class RedBoardDev:
-    def __init__(self):
-        self.name = "Thomas OTT"
-        self.alias = "RedBoardDev"
-        self.age = 20
-        self.role = "Freelance Software Developer"
-        self.education = "Student at Epitech Mulhouse"
-        self.interests = ["Cryptocurrency", "Badminton"]
-        self.languages = ["French", "English"]
-        self.motto = "Always happy to learn and improve myself!"
-
-    def get_info(self):
-        info = f"👋 Hi, I'm {self.name} aka {self.alias}!\n"
-        info += f"👨‍💻 I'm a {self.age}-year-old {self.role}.\n"
-        info += f"🎓 Currently studying at {self.education}.\n"
-        info += f"🌐 I can communicate in {self.languages[0]} and {self.languages[1]}.\n"
-        info += f"💡 My interests include: {' '.join(self.interests)}\n"
-        info += f"🏹 My motto: {self.motto}\n"
-        return info
-
-redboarddev = RedBoardDev()
-print(redboarddev.get_info())
-```
