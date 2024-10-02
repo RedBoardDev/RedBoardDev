@@ -1,4 +1,4 @@
-# `<Hello World, I'm RedBoardDev/>` <a href="https://discord.com/users/419926802366988292" target="_blank"><img align="right" alt="Thomas OTT Discord" width="50px" src="./img/discord.png" /></a> <a href="https://www.linkedin.com/in/thomas--ott/" target="_blank"><img align="right" alt="Thomas OTT LinkedIn" width="50px" src="./img/linkedin.png" /></a><a href="https://thomasott.fr" target="_blank"><img align="right" alt="Site Personnel" width="50px" src="./img/red_logo.png" /></a>
+# `<Hello World, I'm RedBoardDev/>` <a href="https://discord.com/users/419926802366988292" target="_blank"><img align="right" alt="Thomas OTT Discord" width="50px" src="./img/discord.png" /></a> <a href="https://www.linkedin.com/in/thomas--ott/" target="_blank"><img align="right" alt="Thomas OTT LinkedIn" width="50px" src="./img/linkedin.png" /></a><a href="https://thomasott.fr" target="_blank"><img align="right" alt="Site Personnel" width="44px" src="./img/red_logo.png" /></a>
 
 ```python
 import github
