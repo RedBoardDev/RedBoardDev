@@ -41,7 +41,7 @@ Driven by innovation, curiosity, and impactful solutions
 ## GitHub Metrics
 
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=RedBoardDev&theme=transparent" alt="GitHub Streak"></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eight.vercel.app/?user=RedBoardDev&theme=transparent" alt="GitHub Streak"></a>
   <br/><br/>
   <img src="https://raw.githubusercontent.com/RedBoardDev/RedBoardDev/d11da97da94e4972321232e9df04cbd47e208c7e/github-metrics.svg">
 </div>
